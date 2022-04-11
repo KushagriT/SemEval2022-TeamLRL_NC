@@ -3,7 +3,7 @@ Repository for submission of Team LRL_NC at SemEval22-Task4:Patronizing and Cond
 
 This file contains the code for the paper presented by Team LRL_NC at SemEval Task 4: Patronizing and Condescending Language Detection.
 
-The dataset is publicly available at https://github.com/Perez-AlmendrosC/dontpatronizeme
+The dataset is available on request from the task organizers which can be contacted using the official task repository at https://github.com/Perez-AlmendrosC/dontpatronizeme
 
 Some other utility functions can be installed from the above repository as well.
 
